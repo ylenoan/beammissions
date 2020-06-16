@@ -724,7 +724,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>Since 2012 the School of Mission (SOM) in Bangalore has been training young people with a missionary vision to get equipped and go back into serving in their communities.</p>",
+      description: "<p style='margin-top:0;max-width:340px;'>Since 2012 the School of Mission in Bangalore has been training young people with a missionary vision to get equipped and go back into serving in their communities.</p>",
       url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79bf22456463515c1edf8"
     },
     "1": {
