@@ -1,7 +1,7 @@
 
 var simplemaps_worldmap_mapdata={
   main_settings: {
-   //General settings - test for synchro
+   //General settings
     width: "responsive", //'700' or 'responsive'
     background_color: "#FFF",
     background_transparent: "yes",
@@ -839,7 +839,7 @@ var simplemaps_worldmap_mapdata={
   labels: {},
   regions: {
     "0": {
-      name: "North America",
+      name: "European Mission Field for North America",
       states: [
         "US",
         "AT",
