@@ -1,7 +1,7 @@
 
 var simplemaps_worldmap_mapdata={
   main_settings: {
-   //General settings
+   //General settings - test for synchro
     width: "responsive", //'700' or 'responsive'
     background_color: "#FFF",
     background_transparent: "yes",
