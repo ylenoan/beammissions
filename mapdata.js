@@ -725,7 +725,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>Since 2012 the School of Mission in Bangalore has been training young people with a missionary vision to get equipped and go back into serving in their communities.</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79bf22456463515c1edf8"
+      url: "https://donorbox.org/bangalore-school-of-missions"
     },
     "1": {
       lat: "-33.616083",
@@ -736,7 +736,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale:"no",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79db69bcd1c641936e6d9",
+      url: "https://donorbox.org/south-pacific-school-of-missions",
       description: "<p style='margin-top:0;max-width:340px;'>Serving across the region in Australia, New Zealand, Fiji, and Papua New Guinea, the SPSM has been a sponsored program by the BMF since 2012.</p>"
     },
     "2": {
@@ -749,7 +749,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>The Eastern European School of Missions is located in Kyiv, Ukraine and reaches a large geographical area.</p>",
-      url: "https://www.beammissions.org/european-school-of-missions-donation-page"
+      url: "https://donorbox.org/european-school-of-missions"
     },
     "3": {
       lat: "41.798594",
@@ -761,7 +761,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>The Midwest school, formerly the Chicago School of Missions has been training students since 2014 and sends regularly missionaries in Europe</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79aaf14b2283a6e31406b"
+      url: "https://donorbox.org/midwest-school-of-missions"
     },
     "4": {
       lat: "14.626893",
@@ -773,7 +773,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>The Asia Pacific School of Missions is located in Manilla, Philippines and has been established since 2015.</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79c7f83adba6fbbaf61a6"
+      url: "https://donorbox.org/asia-pacific-school-of-missions"
     },
     "5": {
       lat: "33.768775",
@@ -785,7 +785,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>The Atlanta School of Missions has been established since 2016 and sends regularly missionaries in Europe</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79b28050d8725d87ad161"
+      url: "https://donorbox.org/atlanta-school-of-missions"
     },
     "6": {
       lat: "9.136691",
@@ -797,7 +797,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>The West Africa School of Missions was established in 2016 and has been one of our most successful new schools.</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79f7f83adba6fbbafae8e"
+      url: "https://donorbox.org/west-africa-school-of-missions"
     },
     "7": {
       lat: "19.392623",
@@ -821,7 +821,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>The Eurasia area includes schools in Moscow and Saint Petersburg in Russia.</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79971050d8725d87aa198"
+      url: "https://donorbox.org/eurasia-school-of-missions"
     },
     paris: {
       lat: "42.345519",
@@ -833,7 +833,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>Support the New England School of Missions in Boston, Massachusetts with missionaries in Europe</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5e84a62517a58e78aad2b822"
+      url: "https://donorbox.org/new-england-school-of-missions"
     }
   },
   labels: {},
