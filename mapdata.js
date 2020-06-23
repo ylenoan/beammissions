@@ -749,7 +749,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>The Eastern European School of Missions is located in Kyiv, Ukraine and reaches a large geographical area.</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5e84af15cb44b3644a9264eb"
+      url: "https://www.beammissions.org/european-school-of-missions-donation-page"
     },
     "3": {
       lat: "41.798594",
