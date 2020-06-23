@@ -809,7 +809,7 @@ var simplemaps_worldmap_mapdata={
       size: "48",
       scale:"no",
       description: "<p style='margin-top:0;max-width:340px;'>Serving across the region in Latin America, this school is located in Mexico City since 2018.</p>",
-      url: "https://www.beammissions.org/checkout/donate?donatePageId=5ec79f242456463515c2378b"
+      url: "https://donorbox.org/latam-school-of-missions"
     },
     "8": {
       lat: "55.732597",
