@@ -895,7 +895,16 @@ var simplemaps_worldmap_mapdata={
     "3": {
       name: "Eurasia",
       states: [
-        "RU"
+        "RU",
+        "KZ",
+        "UZ",
+        "KG",
+        "TM",
+        "TJ",
+        "GE",
+        "AZ",
+        "AM",
+        "BY"
       ],
       color:"#b2b2b2",
       hover_color:"#F48E95"
