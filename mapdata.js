@@ -740,9 +740,9 @@ var simplemaps_worldmap_mapdata={
       description: "<p style='margin-top:0;max-width:340px;'>Serving across the region in Australia, New Zealand, Fiji, and Papua New Guinea, the SPSM has been a sponsored program by the BMF since 2012.</p>"
     },
     "2": {
-      lat: "50.447731",
-      lng: "30.542721",
-      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Eastern Europe</h4>",
+      lat: "48.14",
+      lng: "11.58",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Europe</h4>",
       image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
       opacity: "1",
       type: "image",
