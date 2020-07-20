@@ -835,6 +835,18 @@ var simplemaps_worldmap_mapdata={
       description: "<p style='margin-top:0;max-width:340px;'>Support the New England School of Missions in Boston, Massachusetts with missionaries in Europe</p>",
       url: "https://donorbox.org/new-england-school-of-missions"
     }
+    "11": {
+      lat: "5.36",
+      lng: "4.01",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Abidjan, Ivory Cost</h4>",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1",
+      type: "image",
+      size: "48",
+      scale:"no",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      url: "https://donorbox.org/new-school"
+    },
   },
   labels: {},
   regions: {
@@ -953,6 +965,28 @@ var simplemaps_worldmap_mapdata={
       ],
       color:"#b2b2b2",
       hover_color:"#F48E95",
+      zoom_percentage:'.4'
+    }
+    "11": {
+      name: "French Speaking West Africa",
+      states:[
+        "CI",
+        "CM",
+        "CD",
+        "CG",
+        "BF",
+        "GN",
+        "GA",
+        "CF",
+        "ML",
+        "NE",
+        "SN",
+        "TG",
+        "BJ",
+        "TD"
+      ],
+      color:"#b2b2b2",
+      hover_color:"#002F44",
       zoom_percentage:'.4'
     }
   }
