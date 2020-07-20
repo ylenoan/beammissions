@@ -724,7 +724,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>Since 2012 the School of Mission in Bangalore has been training young people with a missionary vision to get equipped and go back into serving in their communities.</p>",
+      description: "<p style='margin-top:0;max-width:340px;'>The South Asian School of Missions school was the 1st of its kind outside the US. With an incredible mission field of 1.6 billion souls this program has already launched more than 30 fully trained heroic young leaders into the harvest field.</p>",
       url: "https://donorbox.org/bangalore-school-of-missions"
     },
     "1": {
@@ -748,7 +748,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>The Eastern European School of Missions is located in Kyiv, Ukraine and reaches a large geographical area.</p>",
+      description: "<p style='margin-top:0;max-width:340px;'>The European school of missions started in Kiev, Ukraine and is now expanding to Western and Central Europe with more than 40 students from all across Europe.</p>",
       url: "https://donorbox.org/european-school-of-missions"
     },
     "3": {
@@ -772,7 +772,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>The Asia Pacific School of Missions is located in Manilla, Philippines and has been established since 2015.</p>",
+      description: "<p style='margin-top:0;max-width:340px;'>When the school started in 2015 there had not been any formal training for the ministry for many years. As a result when the door was opened dreamers from their 20’s to their 40’s stepped up to say “Here am I, send me!”. More than  20 have entered the ministry and are preaching the Word in churches in large metropolitan regions and smaller regional cities.</p>",
       url: "https://donorbox.org/asia-pacific-school-of-missions"
     },
     "5": {
@@ -796,7 +796,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>The West Africa School of Missions was established in 2016 and has been one of our most successful new schools.</p>",
+      description: "<p style='margin-top:0;max-width:340px;'>The West Africa program began in 2016 and graduated 16 students in December of 2019. All 16 of the graduates are currently serving in the full time ministry in West Africa. 19 more young dreamers are currently enrolled in the program.</p>",
       url: "https://donorbox.org/west-africa-school-of-missions"
     },
     "7": {
@@ -808,7 +808,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>Serving across the region in Latin America, this school is located in Mexico City since 2018.</p>",
+      description: "<p style='margin-top:0;max-width:340px;'>In 2018, 10 students, all younger than 30, began to train and this year all ten will graduate and take positions serving in campus and youth ministry around the country.</p>",
       url: "https://donorbox.org/latam-school-of-missions"
     },
     "8": {
@@ -839,20 +839,9 @@ var simplemaps_worldmap_mapdata={
   labels: {},
   regions: {
     "0": {
-      name: "European Mission Field for North America",
+      name: "North America",
       states: [
-        "US",
-        "AT",
-        "BE",
-        "CH",
-        "DE",
-        "IT",
-        "LU",
-        "NL",
-        "PT",
-        "FR",
-        "ES",
-        "CZ"
+        "US"
       ],
       color:"#b2b2b2",
       hover_color:"#F48E95"
@@ -866,7 +855,7 @@ var simplemaps_worldmap_mapdata={
       hover_color:"#F48E95"
     },
     "2": {
-      name: "Eastern Europe",
+      name: "Europe",
       states: [
         "RO",
         "AL",
@@ -887,7 +876,18 @@ var simplemaps_worldmap_mapdata={
         "TR",
         "CY",
         "UA",
-        "RS"
+        "RS",
+        "AT",
+        "BE",
+        "CH",
+        "DE",
+        "IT",
+        "LU",
+        "NL",
+        "PT",
+        "FR",
+        "ES",
+        "CZ"
       ],
       color:"#b2b2b2",
       hover_color:"#F48E95"
