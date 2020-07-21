@@ -1,4 +1,3 @@
-
 var simplemaps_worldmap_mapdata={
   main_settings: {
    //General settings
@@ -10,7 +9,7 @@ var simplemaps_worldmap_mapdata={
     state_description: "",
     state_color: "#e6e6e6",
     state_hover_color: "#e6e6e6",
-    state_inactive:"false",
+    state_inactive: "false",
     state_url: "",
     border_size: 1,
     all_states_inactive: "no",
@@ -45,11 +44,11 @@ var simplemaps_worldmap_mapdata={
     region_opacity: 1,
     region_hover_opacity: 1,
     zoom_out_incrementally: "yes",
-    zoom_percentage: .9,
+    zoom_percentage: 0.9,
     zoom_time: 0.5,
-    navigation_color:"#F48E95",
-    navigation_border_color:"#F48E95",
-    adjacent_opacity:".2",
+    navigation_color: "#F48E95",
+    navigation_border_color: "#F48E95",
+    adjacent_opacity: ".2",
 
     //Popup settings
     popup_color: "white",
@@ -723,7 +722,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>The South Asian School of Missions school was the 1st of its kind outside the US. With an incredible mission field of 1.6 billion souls this program has already launched more than 30 fully trained heroic young leaders into the harvest field.</p>",
       url: "https://donorbox.org/bangalore-school-of-missions"
     },
@@ -735,7 +734,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       url: "https://donorbox.org/south-pacific-school-of-missions",
       description: "<p style='margin-top:0;max-width:340px;'>Serving across the region in Australia, New Zealand, Fiji, and Papua New Guinea, the SPSM has been a sponsored program by the BMF since 2012.</p>"
     },
@@ -747,7 +746,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>The European school of missions started in Kiev, Ukraine and is now expanding to Western and Central Europe with more than 40 students from all across Europe.</p>",
       url: "https://donorbox.org/european-school-of-missions"
     },
@@ -759,7 +758,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>The Midwest school, formerly the Chicago School of Missions has been training students since 2014 and sends regularly missionaries in Europe</p>",
       url: "https://donorbox.org/midwest-school-of-missions"
     },
@@ -771,7 +770,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>When the school started in 2015 there had not been any formal training for the ministry for many years. As a result when the door was opened dreamers from their 20’s to their 40’s stepped up to say “Here am I, send me!”. More than  20 have entered the ministry and are preaching the Word in churches in large metropolitan regions and smaller regional cities.</p>",
       url: "https://donorbox.org/asia-pacific-school-of-missions"
     },
@@ -783,7 +782,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>The Atlanta School of Missions has been established since 2016 and sends regularly missionaries in Europe</p>",
       url: "https://donorbox.org/atlanta-school-of-missions"
     },
@@ -795,7 +794,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>The West Africa program began in 2016 and graduated 16 students in December of 2019. All 16 of the graduates are currently serving in the full time ministry in West Africa. 19 more young dreamers are currently enrolled in the program.</p>",
       url: "https://donorbox.org/west-africa-school-of-missions"
     },
@@ -807,7 +806,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>In 2018, 10 students, all younger than 30, began to train and this year all ten will graduate and take positions serving in campus and youth ministry around the country.</p>",
       url: "https://donorbox.org/latam-school-of-missions"
     },
@@ -819,9 +818,69 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>The Eurasia area includes schools in Moscow and Saint Petersburg in Russia.</p>",
       url: "https://donorbox.org/eurasia-school-of-missions"
+    },
+    "11": {
+      lat: "5.36",
+      lng: "4.01",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Abidjan, Ivory Coast</h4>",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1",
+      type: "image",
+      size: "48",
+      scale: "no",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      url: "https://donorbox.org/new-school"
+    },
+    "12": {
+      lat: "-23.533773",
+      lng: "-46.625290",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Sao Paolo, Brazil</h4>",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1",
+      type: "image",
+      size: "48",
+      scale: "no",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      url: "https://donorbox.org/new-school"
+    },
+    "13": {
+      lat: "13.68935",
+      lng: "-89.18718",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>San Salvador, El Salvador</h4>",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1",
+      type: "image",
+      size: "48",
+      scale:"no",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      url: "https://donorbox.org/new-school"
+    },
+    "14": {
+      lat: "-26.195246",
+      lng: "28.034088",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Johannesburg, South Africa</h4>",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1",
+      type: "image",
+      size: "48",
+      scale:"no",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      url: "https://donorbox.org/new-school"
+    },
+    "15": {
+      lat: "17.9951",
+      lng: "-76.7846",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Kingston, Jamaica</h4>",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1",
+      type: "image",
+      size: "48",
+      scale:"no",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      url: "https://donorbox.org/new-school"
     },
     paris: {
       lat: "42.345519",
@@ -831,7 +890,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>Support the New England School of Missions in Boston, Massachusetts with missionaries in Europe</p>",
       url: "https://donorbox.org/new-england-school-of-missions"
     }
@@ -843,16 +902,16 @@ var simplemaps_worldmap_mapdata={
       states: [
         "US"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95"
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     },
     "1": {
       name: "Mexico",
       states: [
         "MX"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95"
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     },
     "2": {
       name: "Europe",
@@ -889,8 +948,8 @@ var simplemaps_worldmap_mapdata={
         "ES",
         "CZ"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95"
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     },
     "3": {
       name: "Eurasia",
@@ -906,8 +965,8 @@ var simplemaps_worldmap_mapdata={
         "AM",
         "BY"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95"
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     },
     "4": {
       name: "Southern Asia",
@@ -918,8 +977,8 @@ var simplemaps_worldmap_mapdata={
         "BD",
         "LK"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95"
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     },
     "5": {
       name: "Asia Pacific",
@@ -927,23 +986,23 @@ var simplemaps_worldmap_mapdata={
         "PH",
         "MM"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95"
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     },
     "6": {
       name: "South Pacific",
-      states:[
+      states: [
         "AU",
         "NZ",
         "FJ",
         "PG"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95"
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     },
     "7": {
       name: "West Africa",
-      states:[
+      states: [
         "NG",
         "GH",
         "SL",
@@ -951,9 +1010,91 @@ var simplemaps_worldmap_mapdata={
         "GW",
         "GM"
       ],
-      color:"#b2b2b2",
-      hover_color:"#F48E95",
-      zoom_percentage:'.4'
+      color: "#2F4F4F",
+      hover_color: "#EF5358",
+      zoom_percentage: ".4"
+    },
+    "8": {
+      name: "French Speaking West Africa",
+      states: [
+        "CI",
+        "CM",
+        "CD",
+        "CG",
+        "BF",
+        "GN",
+        "GA",
+        "CF",
+        "ML",
+        "NE",
+        "SN",
+        "TG",
+        "BJ",
+        "TD"
+      ],
+      color: "#778899",
+      hover_color: "#EF8F53",
+      zoom_percentage: ".4"
+    },
+    "9": {
+      name: "BRAZIL",
+      states: [
+        "BR"
+      ],
+      color: "#778899",
+      hover_color: "#EF8F53",
+      zoom_percentage: ".6"
+    },
+    "10": {
+      name: "Central America",
+      states: [
+        "SV",
+        "GT",
+        "BZ",
+        "HN",
+        "NI",
+        "CR",
+        "PA",
+        "VE",
+        "CO"
+      ],
+      color: "#778899",
+      hover_color: "#EF8F53",
+      zoom_percentage: ".6"
+    },
+    "11": {
+      name: "South Africa",
+      states: [
+        "ZA",
+        "AO",
+        "MZ",
+        "MG",
+        "MW",
+        "ZM",
+        "ZW",
+        "NA",
+        "BW",
+        "LS",
+        "SZ",
+        "MU"
+      ],
+      color: "#778899",
+      hover_color: "#EF8F53",
+      zoom_percentage: ".6"
+    },
+    "12": {
+      name: "Caribbean Region",
+      states: [
+        "CU",
+        "DO",
+        "GD",
+        "HT",
+        "JM",
+        "PR"
+      ],
+      color: "#778899",
+      hover_color: "#EF8F53",
+      zoom_percentage: ".6"
     }
   }
 };
