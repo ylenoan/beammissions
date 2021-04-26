@@ -822,6 +822,17 @@ var simplemaps_worldmap_mapdata={
       description: "<p style='margin-top:0;max-width:340px;'>The Eurasia area includes schools in Moscow and Saint Petersburg in Russia.</p>",
       url: "https://donorbox.org/eurasia-school-of-missions"
     },
+    "9": {
+      lat: "29.4241",
+      lng: "-98.4936",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>San Antonio</h4>",
+      description: "<p style='margin-top:0;max-width:340px;'>The South Texas School of Missions, based in San Antonio sends regularly missionaries in Africa and South America</p>",
+      url: "https://donorbox.org/san-antonio-school-of-missions",
+      size: "48",
+      type: "image",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1"
+    },
     "11": {
       lat: "5.36",
       lng: "4.01",
@@ -854,7 +865,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
       url: "https://donorbox.org/new-school"
     },
@@ -866,8 +877,8 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      scale: "no",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to support this school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
       url: "https://donorbox.org/new-school"
     },
     "15": {
@@ -878,7 +889,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-      scale:"no",
+      scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
       url: "https://donorbox.org/new-school"
     },
@@ -1063,7 +1074,7 @@ var simplemaps_worldmap_mapdata={
       zoom_percentage: ".6"
     },
     "11": {
-      name: "South Africa",
+      name: "Southern Africa",
       states: [
         "ZA",
         "AO",
@@ -1078,8 +1089,8 @@ var simplemaps_worldmap_mapdata={
         "SZ",
         "MU"
       ],
-      color: "#778899",
-      hover_color: "#EF8F53",
+      color: "#2F4F4F",
+      hover_color: "#EF5358",
       zoom_percentage: ".6"
     },
     "12": {
@@ -1096,5 +1107,8 @@ var simplemaps_worldmap_mapdata={
       hover_color: "#EF8F53",
       zoom_percentage: ".6"
     }
+  },
+  legend: {
+    entries: []
   }
 };
