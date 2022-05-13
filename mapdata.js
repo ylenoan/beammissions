@@ -822,7 +822,6 @@ var simplemaps_worldmap_mapdata={
       description: "<p style='margin-top:0;max-width:340px;'>The Eurasia area includes schools in Moscow and Saint Petersburg in Russia.</p>",
       url: "https://donorbox.org/eurasia-school-of-missions"
     },
-<<<<<<< HEAD
     "9": {
       lat: "29.4241",
       lng: "-98.4936",
@@ -834,8 +833,17 @@ var simplemaps_worldmap_mapdata={
       image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
       opacity: "1"
     },
-=======
->>>>>>> f6d1294e879f43b7abc4a7c117d79f2e66d3e1be
+    "10": {
+      lat: "4.44",
+      lng: "15.27",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Kinshasa, RDC</h4>",
+      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
+      url: "https://donorbox.org/new-school",
+      size: "48",
+      type: "image",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1"
+    },
     "11": {
       lat: "5.36",
       lng: "4.01",
@@ -868,11 +876,7 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-<<<<<<< HEAD
       scale: "no",
-=======
-      scale:"no",
->>>>>>> f6d1294e879f43b7abc4a7c117d79f2e66d3e1be
       description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
       url: "https://donorbox.org/new-school"
     },
@@ -884,13 +888,8 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-<<<<<<< HEAD
       scale: "no",
       description: "<p style='margin-top:0;max-width:340px;'>Donate to support this school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
-=======
-      scale:"no",
-      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
->>>>>>> f6d1294e879f43b7abc4a7c117d79f2e66d3e1be
       url: "https://donorbox.org/new-school"
     },
     "15": {
@@ -901,13 +900,20 @@ var simplemaps_worldmap_mapdata={
       opacity: "1",
       type: "image",
       size: "48",
-<<<<<<< HEAD
       scale: "no",
-=======
-      scale:"no",
->>>>>>> f6d1294e879f43b7abc4a7c117d79f2e66d3e1be
       description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
       url: "https://donorbox.org/new-school"
+    },
+    "16": {
+      lat: "32.71",
+      lng: "-116.16",
+      name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>West Coast</h4>",
+      description: "<p style='margin-top:0;max-width:340px;'>The West Coast School of Missions supports missionaries in the Middle East and South America</p>",
+      url: "https://donorbox.org/midwest-school-of-missions",
+      size: "48",
+      type: "image",
+      image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
+      opacity: "1"
     },
     paris: {
       lat: "42.345519",
@@ -918,7 +924,7 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale: "no",
-      description: "<p style='margin-top:0;max-width:340px;'>Support the New England School of Missions in Boston, Massachusetts with missionaries in Europe</p>",
+      description: "<p style='margin-top:0;max-width:340px;'>Support the New England School of Missions  with missionaries in Europe</p>",
       url: "https://donorbox.org/new-england-school-of-missions"
     }
   },
@@ -1042,25 +1048,19 @@ var simplemaps_worldmap_mapdata={
       zoom_percentage: ".4"
     },
     "8": {
-      name: "French Speaking West Africa",
+      name: "French West Africa",
       states: [
         "CI",
-        "CM",
-        "CD",
-        "CG",
         "BF",
         "GN",
-        "GA",
-        "CF",
         "ML",
         "NE",
         "SN",
         "TG",
-        "BJ",
-        "TD"
+        "BJ"
       ],
-      color: "#778899",
-      hover_color: "#EF8F53",
+      color: "#2F4F4F",
+      hover_color: "#EF5358",
       zoom_percentage: ".4"
     },
     "9": {
@@ -1068,8 +1068,8 @@ var simplemaps_worldmap_mapdata={
       states: [
         "BR"
       ],
-      color: "#778899",
-      hover_color: "#EF8F53",
+      color: "#2F4F4F",
+      hover_color: "#EF5358",
       zoom_percentage: ".6"
     },
     "10": {
@@ -1090,11 +1090,7 @@ var simplemaps_worldmap_mapdata={
       zoom_percentage: ".6"
     },
     "11": {
-<<<<<<< HEAD
       name: "Southern Africa",
-=======
-      name: "South Africa",
->>>>>>> f6d1294e879f43b7abc4a7c117d79f2e66d3e1be
       states: [
         "ZA",
         "AO",
@@ -1109,13 +1105,8 @@ var simplemaps_worldmap_mapdata={
         "SZ",
         "MU"
       ],
-<<<<<<< HEAD
       color: "#2F4F4F",
       hover_color: "#EF5358",
-=======
-      color: "#778899",
-      hover_color: "#EF8F53",
->>>>>>> f6d1294e879f43b7abc4a7c117d79f2e66d3e1be
       zoom_percentage: ".6"
     },
     "12": {
@@ -1131,6 +1122,19 @@ var simplemaps_worldmap_mapdata={
       color: "#778899",
       hover_color: "#EF8F53",
       zoom_percentage: ".6"
+    },
+    "13": {
+      states: [
+        "CD",
+        "CG",
+        "CF",
+        "CM",
+        "GA",
+        "TD"
+      ],
+      name: "Central Africa",
+      color: "#2F4F4F",
+      hover_color: "#EF5358"
     }
   },
   legend: {
