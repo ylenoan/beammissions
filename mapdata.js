@@ -27,14 +27,14 @@ var simplemaps_worldmap_mapdata={
     location_hover_border: 2.5,
     all_locations_inactive: "no",
     all_locations_hidden: "no",
-
+    
     //Label defaults
     label_color: "#d5ddec",
     label_hover_color: "#d5ddec",
     label_size: 22,
     label_font: "Arial",
     hide_labels: "no",
-
+   
     //Zoom settings
     zoom: "no",
     back_image: "no",
@@ -49,7 +49,7 @@ var simplemaps_worldmap_mapdata={
     navigation_color: "#F48E95",
     navigation_border_color: "#F48E95",
     adjacent_opacity: ".2",
-
+    
     //Popup settings
     popup_color: "white",
     popup_opacity: 1,
@@ -57,7 +57,7 @@ var simplemaps_worldmap_mapdata={
     popup_corners: 8,
     popup_font: "12px/1.5 Poppins, Arial, Helvetica, sans-serif",
     popup_nocss: "yes",
-
+    
     //Advanced settings
     div: "map",
     auto_load: "yes",
@@ -837,8 +837,8 @@ var simplemaps_worldmap_mapdata={
       lat: "4.44",
       lng: "15.27",
       name: "<h4 style='font-size:16px;font-weight:bold;margin:0;'>Kinshasa, RDC</h4>",
-      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
-      url: "https://donorbox.org/new-school",
+      description: "<p style='margin-top:0;max-width:340px;'>The Central Africa School of Missions is one of our latest schools, established in 2022 and the region is in great need of young leadership.</p>",
+      url: "https://donorbox.org/central-africa-school-of-missions",
       size: "48",
       type: "image",
       image_url: "https://cdn.jsdelivr.net/gh/ylenoan/beammissions@latest/mappin.png",
@@ -853,8 +853,8 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale: "no",
-      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
-      url: "https://donorbox.org/new-school"
+      description: "<p style='margin-top:0;max-width:340px;'>The French West Africa School of Missions is one of our latest schools, established in 2022 and the region is in great need of young leadership.</p>",
+      url: "https://donorbox.org/french-west-africa-school-of-missions"
     },
     "12": {
       lat: "-23.533773",
@@ -865,8 +865,8 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale: "no",
-      description: "<p style='margin-top:0;max-width:340px;'>Donate to create a new school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
-      url: "https://donorbox.org/new-school"
+      description: "<p style='margin-top:0;max-width:340px;'>The Brazil School of Missions is one of our latest schools, established in 2022 and the region is in great need of young leadership.</p>",
+      url: "https://donorbox.org/brazil-school-of-missions"
     },
     "13": {
       lat: "13.68935",
@@ -889,8 +889,8 @@ var simplemaps_worldmap_mapdata={
       type: "image",
       size: "48",
       scale: "no",
-      description: "<p style='margin-top:0;max-width:340px;'>Donate to support this school and start your legacy today that will leave a lasting impact on the leaders of tomorrow. Be a part of their dream to spread the gospel beyond their home cities.</p>",
-      url: "https://donorbox.org/new-school"
+      description: "<p style='margin-top:0;max-width:340px;'>The Southern Africa School of Missions is one of our latest schools, established in 2021 and the region is in great need of young leadership.</p>",
+      url: "https://donorbox.org/southern-africa-school-of-missions"
     },
     "15": {
       lat: "17.9951",
